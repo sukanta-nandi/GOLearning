@@ -11,3 +11,5 @@ Types:
     - case sensitive
     - Everything is Types
     - variable type should be known in advance
+    - Int, Bool, String, Float, Complex
+    - Array, Slices, Map, Struct, Pointers
