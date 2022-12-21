@@ -1,0 +1,13 @@
+
+
+- compiled: Go can run file directly without VM
+- executables are exported at compile time, executables are different for diff OS
+- Where to use: system apps, web apps, cloud systems
+- OOP: Not entirely, it uses struct istead of class. No over-riding
+- Missing: Try/Catch, 
+
+
+Types:
+    - case sensitive
+    - Everything is Types
+    - variable type should be known in advance
