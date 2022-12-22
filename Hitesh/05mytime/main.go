@@ -17,3 +17,6 @@ func main() {
 	createdDate := time.Date(2020, time.August, 12, 23, 23, 0, 0, time.UTC)
 	fmt.Println("created date: ", createdDate.Format("01-02-2006 Monday"))
 }
+
+// go env | grep GOOS
+// GOOS="linux/windows/darwin" go build file.go
