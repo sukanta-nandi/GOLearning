@@ -13,3 +13,4 @@ func main() {
 // go run main.go
 // go help <cmd>
 // go env GOPATH
+// Semicolon : https://go.dev/ref/spec#Lexical_elements
