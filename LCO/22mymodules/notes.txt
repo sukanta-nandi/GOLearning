@@ -1,0 +1,24 @@
+Semantic Versioning:
+
+https://www.geeksforgeeks.org/introduction-semantic-versioning/
+
+go.sum: a hashing technique to secure your code what you are pulling from internet
+
+go mod tidy : is expensive operation
+=> it tides up all the alibraries , removes or bring required modules
+
+go mod verify
+
+go list
+go list all
+go list -m all
+go list -m -versions github.com/gorilla/mux
+
+go mod why github.com/gorilla/mux
+go mod graph
+
+go mod edit -go <version> // to change version
+go mod edit -module <module-name> // change module name
+
+go mod vendor // creates a vendor folder and brings the required modules on that folder 
+use -mode=vendor to use vendor folder in go run -mod=vendor main.go

@@ -1,1 +1,3 @@
 go 1.19
+
+use ./LCO/22mymodules
