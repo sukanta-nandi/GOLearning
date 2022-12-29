@@ -1,3 +1,6 @@
 go 1.19
 
-use ./LCO/22mymodules
+use (
+	./LCO/22mymodules
+	./LCO/23buildapi
+)
