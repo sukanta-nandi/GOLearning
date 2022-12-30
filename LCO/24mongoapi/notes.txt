@@ -1,0 +1,4 @@
+mongodb connection url:
+
+mongodb+srv://sukanta:<password>@cluster0.yw4mca7.mongodb.net/?retryWrites=true&w=majority
+
