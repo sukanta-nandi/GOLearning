@@ -1,0 +1,22 @@
+
+
+
+- Concurrency vs Parallelism
+=> Instagram, Eating
+
+- Goroutines
+=> Threads:
+    - Managed by OS
+    - Fixed stack min : 1MB
+
+   Goroutines
+    - Managed by go runtime
+    - Flexible stack : 2KB
+
+    https://medium.com/the-polyglot-programmer/what-are-goroutines-and-how-do-they-actually-work-f2a734f6f991
+
+
+
+
+- Do not communicate by sharing memory; instead share memory by communicating
+
